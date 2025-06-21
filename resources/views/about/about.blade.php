@@ -103,7 +103,7 @@ Tertarik berkunjung ke Delta Fishing?
                             <div>
                                 <h3 class="font-bold">Suasana Santai</h3>
                                 <p>Anda bisa bersantai dan bercengkrama dengan sesama pemancing dan keluarga.</p>
-                            </div>
+                            </div> 
                         </li>
                     </ul>
                 </div>
